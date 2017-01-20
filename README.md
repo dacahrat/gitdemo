@@ -2,8 +2,8 @@
 
 * git init - create a new repository
 * git status - compare working directory with repository
-* git food
-* git lost
+* git add - 
+* git commit - 
 
 
-Jim Brucker
+Dacharat Pankong
